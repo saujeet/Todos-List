@@ -16,6 +16,8 @@ function App() {
     initTodo = [];
   }
 
+  // some changes
+
   const onDelete = (todo) => {
     console.log("Deleted", todo);
     // cant delete in this way
